@@ -5,7 +5,7 @@
   "main": "index.test.js",
   "type": "module",
   "dependencies": {
-    "@electric-sql/pglite": "https://github.com/electric-sql/pglite/actions/runs/16630550655/artifacts/3651716515",
+    "@electric-sql/pglite": "./package",
     "vitest": "^3.2.4"
   },
   "scripts": {
